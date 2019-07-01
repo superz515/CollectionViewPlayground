@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		651C3B5E22CA4E0D0089D0D8 /* demo.GIF in Resources */ = {isa = PBXBuildFile; fileRef = 651C3B5D22CA4E0D0089D0D8 /* demo.GIF */; };
 		652C358D222B7BA800D6A39C /* TitledCarouselLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652C358C222B7BA800D6A39C /* TitledCarouselLayout.swift */; };
 		652C3590222B80B200D6A39C /* TitledLayoutAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652C358F222B80B100D6A39C /* TitledLayoutAttributes.swift */; };
 		652C3592222B897300D6A39C /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 652C3591222B897300D6A39C /* HeaderView.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		651C3B5D22CA4E0D0089D0D8 /* demo.GIF */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.GIF; sourceTree = "<group>"; };
 		652C358C222B7BA800D6A39C /* TitledCarouselLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitledCarouselLayout.swift; sourceTree = "<group>"; };
 		652C358F222B80B100D6A39C /* TitledLayoutAttributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitledLayoutAttributes.swift; sourceTree = "<group>"; };
 		652C3591222B897300D6A39C /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 		652C3593222B8A1400D6A39C /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				651C3B5D22CA4E0D0089D0D8 /* demo.GIF */,
 				652C3594222B8AE300D6A39C /* Assets.xcassets */,
 			);
 			path = Resources;
@@ -254,6 +257,7 @@
 				65F248C022285FAF00AD4FEE /* Assets.xcassets in Resources */,
 				652C3595222B8AE300D6A39C /* Assets.xcassets in Resources */,
 				65F248BE22285FAD00AD4FEE /* Main.storyboard in Resources */,
+				651C3B5E22CA4E0D0089D0D8 /* demo.GIF in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
