@@ -66,3 +66,4 @@ This kind of layout lets you put one cell over another just like real poker card
 1. Some cells will be misplaced when switching between layouts. This probably is an iOS bug and you can bypass it by deleting all cells and adding them back.
 2. Some more UI issues. I don't want to take too much time to fix them, since this is just a playground. 😄
 3. Bouncy layout is not working.
+4. Lack of a fancy icon. 🙂
