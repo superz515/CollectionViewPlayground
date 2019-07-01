@@ -1,6 +1,8 @@
 # CollectionViewPlayground
 A centralized place that can play many kinds of different UICollectionView custom layouts and learn some related cool stuff.
 
+![Image](https://github.com/superz515/CollectionViewPlayground/blob/master/CollectionViewPlayground/Resources/demo.GIF)
+
 ## Background
 
 When I started learning UICollectionView custom layout, I saw so many brilliant open source projects on GitHub. But downloading and running them individually seems not so convenient. Then I had this idea that putting them together and adding more controls, so that everyone could feel and learn them more easily.
