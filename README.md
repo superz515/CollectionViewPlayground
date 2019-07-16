@@ -67,3 +67,4 @@ This kind of layout lets you put one cell over another just like real poker card
 2. Some more UI issues. I don't want to take too much time to fix them, since this is just a playground. 😄
 3. Bouncy layout is not working.
 4. Lack of a fancy icon. 🙂
+5. There seems to be some serious issues with iOS 13 beta. Let's wait for GA and see.
